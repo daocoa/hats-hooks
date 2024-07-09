@@ -8,3 +8,6 @@
 [submodule "packages/foundry/lib/solidity-bytes-utils"]
 	path = packages/foundry/lib/solidity-bytes-utils
 	url = https://github.com/gnsps/solidity-bytes-utils
+[submodule "packages/foundry/lib/hats-protocol"]
+	path = packages/foundry/lib/hats-protocol
+	url = https://github.com/Hats-Protocol/hats-protocol
